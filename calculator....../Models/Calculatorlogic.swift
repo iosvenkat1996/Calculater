@@ -52,9 +52,10 @@ struct CalculatorLogic {
                 return n1 / n2
                 
             default:
-                fatalError("The Operation passed is does not match the cases")
+                fatalError("The fsdfsdsf Operation passed is does not match the cases")
             }
         }
+        
         return nil
     }
 }
